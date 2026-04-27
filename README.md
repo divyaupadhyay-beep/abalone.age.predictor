@@ -1,0 +1,2 @@
+Abalone Age Predictor is a web-based application that estimates the age of abalone using physical measurements such as length, diameter, and weight. Built with Python and libraries like NumPy, Pandas, and machine learning models, it delivers accurate predictions through an intuitive interface. This project demonstrates practical skills in data preprocessing, model building, and real-world data analysis.
+This is my live website link:https://divyaupadhyay-beep.github.io/abalone.age.predictor/
